@@ -6,7 +6,7 @@ The purpose of this repository is to host the code required for this functionali
 
 A non-scaled sketch of the table can be seen below.
 
-<img alt="Heating standing table sketch" height="500" width="500" src="./doc/resources/general/IDPA_Beheizbarer_Stehtisch.png">
+<img alt="Heating standing table sketch" height="500" width="500" src="./doc/resources/general/IDPA_Beheizbarer_Stehtisch_verbessert.PNG">
 
 ## Further documentation
 
